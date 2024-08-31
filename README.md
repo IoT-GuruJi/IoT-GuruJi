@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhinav, also known as "IoT-GuruJi" or "Mr-IOT." I'm an enthusiastic IoT student diving deep into Python, AI, and ML, currently working on innovative projects like a smart irrigation system and a surveillance robot. I'm looking to collaborate on exciting IoT and AI ventures and would love help refining my skills in advanced AI algorithms. Ask me about IoT, embedded systems, or creating intelligent hardware solutions! Fun fact: I recently completed an internship in robotics, mechatronics, and IoT, where I developed a Smart Inventory Management System using ESP32 and advanced sensors.
+Hi, I'm Abhinav, also known as "IoT-GuruJi" or "Mr-IOT." I'm an enthusiastic IoT student diving deep into Python, AI, and ML, currently working on various innovative projects like surveillance robot. I'm looking to collaborate on exciting IoT and AI ventures and would love help refining my skills in advanced AI algorithms. Ask me about IoT, embedded systems, or creating intelligent hardware solutions! Fun fact: I recently completed an internship in robotics, mechatronics, and IoT, where I developed a Smart Inventory Management System using ESP32 and advanced sensors.
 
 
 # 💻 Tech Stack:
